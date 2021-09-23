@@ -52,7 +52,7 @@
 <a href = "#"><img src="https://img.icons8.com/fluency/100/000000/discord-logo.png"/></a>
 </p>
 
-## ❤ Penonton and pengikut
+## ❤ Penonton dan Pengikut
 <a href="https://github.com/Xzanx/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Xzanx">
 </a>
