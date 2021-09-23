@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Xzanx/github-readme-stats">
+    <a href="https://github.com/Xzanx/Xzanx">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xzanx&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -37,8 +37,8 @@
 ## 📊 Status Github Saya
 
   <br/>
-    <a href="https://github.com/Xzanx/github-readme-stats"><img alt="Xzanx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xzanx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Xzanx/github-readme-stats"><img alt="Xzanx's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzanx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Xzanx/Xzanx"><img alt="Xzanx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xzanx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Xzanx/Xzanx"><img alt="Xzanx's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzanx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Bahasa teratas hanyalah metrik dari bahasa yang terdiri dari kode publik saya dan tidak mencerminkan pengalaman atau tingkat keahlian.
 <br/>
