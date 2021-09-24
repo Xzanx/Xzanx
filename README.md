@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Halo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Saya Xzanx</h1>
-<h3 align="center">Saya adalah seorang Developer pemula</h3>
+<h1 align="center">Halo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! Saya Xzanx</h1>
+<h3 align="center">Saya adalah seorang Developer Pemula</h3>
 
 
 ## 🙋‍♂️ Tentang Saya
@@ -24,11 +24,12 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://replit.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="repl.it" width="40" height="40"/> </a>
+    <a href="https://npmjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40" height="40"/> </a>
 </p>
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Xzanx/Xzanx">
+    <a href="https://github.com/Xzanx/">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xzanx&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -36,7 +37,7 @@
 ## 📊 Status Github Saya
 
   <br/>
-    <a href="https://github.com/Xzanx/Xzanx"><img alt="Xzanx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xzanx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Xzanx/"><img alt="Xzanx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xzanx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Xzanx/"><img alt="Xzanx Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzanx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Bahasa teratas hanyalah metrik dari bahasa yang terdiri dari kode publik saya dan tidak mencerminkan pengalaman atau tingkat keahlian.
@@ -46,11 +47,8 @@
 <br/>
 <br/>
 
-## 📱 Sosial Media
-<p align="left">
-
-<a href = "#"><img src="https://img.icons8.com/fluency/100/000000/discord-logo.png"/></a>
-</p>
+## 📱 Discord Server
+<a href="https://discord.gg/zY7JfVanSy"><img width="400" height="150" src="https://discord.com/api/guilds/862987839422726164/widget.png?style=banner3"></a>
 
 ## ❤ Penonton dan Pengikut
 <a href="https://github.com/Xzanx/github-profile-views-counter">
