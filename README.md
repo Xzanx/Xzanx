@@ -1,20 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Halo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! Saya Xzanx</h1>
-<h3 align="center">Saya adalah seorang Developer Pemula</h3>
+<h1 align="center">Selamat Datang</h1>
+<h3 align="center">Saya Xzanx dan Saya adalah seorang Developer Pemula</h3>
 
-
-## 🙋‍♂️ Tentang Saya
-
-- 🔭 Saya adalah seorang **Pelajar.**
-
-- 👨‍💻 Semua project saya tersedia di **[Repositories](https://github.com/Xzanx?tab=repositories)**
-
-- 📫 Bagaimana cara menghubungi saya? **Xzanx#3935**
-
-- ⚡ Fakta menarik **Saya sedang  menjalakan project Pixxy Bot (Discord)**
-
-## 🚀 Bahasa dan Alat
+## 🔧 My Tools
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -34,7 +23,7 @@
     </a>
 </p>
 
-## 📊 Status Github Saya
+## 📊 | My Github Status
 
   <br/>
     <a href="https://github.com/Xzanx/"><img alt="Xzanx Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xzanx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -47,10 +36,10 @@
 <br/>
 <br/>
 
-## 📱 Discord Server
+## 📱 | My Discord Server
 <a href="https://discord.gg/zY7JfVanSy"><img width="400" height="150" src="https://discord.com/api/guilds/862987839422726164/widget.png?style=banner3"></a>
 
-## ❤ Penonton dan Pengikut
+## ❤ | My Views & Follower
 <a href="https://github.com/Xzanx/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Xzanx">
 </a>
